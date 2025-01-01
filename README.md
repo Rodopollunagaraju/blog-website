@@ -1,2 +1,2 @@
 # blog-website
-A basic blog website with can handle CURD operations
+A basic blog-website which can handle CURD operations
